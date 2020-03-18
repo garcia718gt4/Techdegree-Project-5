@@ -4,7 +4,7 @@ $('a').attr('data-lightbox', 'scenes');
 
 // Add lightbox2 plugin
 lightbox.option({
-  alwaysShowNavOnTouchDevices: true,
+  alwaysShowNavOnTouchDevices: false,
   resizeDuration: 200,
   wrapAround: true,
   maxWidth: 900,
