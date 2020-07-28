@@ -42,6 +42,8 @@
   
    .list img {
      margin-bottom: 15px;
+     transition: transform .3s;
+     border-radius: 5px;
    }
   
    .list img:hover {
